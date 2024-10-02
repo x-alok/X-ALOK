@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a full stack developer.
 ----------------------------
 
-Crafting Seamless User Experiences as a Frontend Developer
+Crafting Seamless User Experiences as a Full stack Developer.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MY porfolio](http://x.com)
@@ -12,7 +12,7 @@ Crafting Seamless User Experiences as a Frontend Developer
 * 🚀  I'm currently working on [slice](http://slice.com)
 * 🧠  I'm learning React & Angular
 * 🤝  I'm open to collaborating on Projects
-* ⚡  i want to become a ghost
+* ⚡  sometimes i want to become a ghost 👻 
 
 
 ### Skills
