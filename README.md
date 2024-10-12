@@ -12,7 +12,7 @@ Crafting Seamless User Experiences as a Full stack Developer.
 * 🚀  I'm currently working on [slice](http://slice.com)
 * 🧠  I'm learning React & Angular
 * 🤝  I'm open to collaborating on Projects
-* ⚡  sometimes i want to become a ghost 👻 
+* ⚡  Fun fact sometimes i want to become a ghost 👻 
 
 
 ### Skills
