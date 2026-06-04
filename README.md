@@ -1,25 +1,25 @@
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
+<img src="https://github.com/x-alok/x-alok/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
 
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/x-alok/x-alok/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  <img src="https://github.com/x-alok/x-alok/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Alok+Tiwari+and+Welcome+to+my+Profile!" alt="Hey, I'm Alok Tiwari and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
+  <img src="https://github.com/x-alok/x-alok/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
 </div>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/x-alok/x-alok/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
+<img  src= "https://github.com/x-alok/x-alok/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
-<img src="https://komarev.com/ghpvc/?username=muhammadfiaz" alt="GitHub profile views" />
+<img src="https://komarev.com/ghpvc/?username=ALOK TIWARI" alt="GitHub profile views" />
 <br><br>
-<a href="https://github.com/muhammad-fiaz" target="_blank">
-  <img src="https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social" alt="Follow me on GitHub" />
+<a href="https://github.com/x-alok" target="_blank">
+  <img src="https://img.shields.io/github/followers/x-alok?label=Follow&style=social" alt="Follow me on GitHub" />
 </a>
 <br>
 <br>
-<a href="https://wakatime.com/@muhammadfiaz">
+<a href="https://wakatime.com/@x-alok">
   <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Total Time Badge" />
 </a>
 <br>
@@ -29,17 +29,17 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/x-alok/x-alok/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/x-alok/x-alok/blob/output/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://github.com/x-alok/x-alok/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 </div>
 <br>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="https://github.com/x-alok/x-alok/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <div align="center">   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
+<img src="https://github.com/x-alok/x-alok/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
   <h2> 😎 About Me </h2><br>
 <br>
 </div>
