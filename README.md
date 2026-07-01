@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science Student
 - 💻 Learning Full Stack Development
-- 🌱 Currently mastering **React, Next.js, Node.js, MongoDB & PostgreSQL**
+- 🌱 Currently mastering **React, Next.js, Node.js, MongoDB & SQL**
 - 📚 Solving Data Structures & Algorithms daily
 - 🎯 Goal: Crack a **20+ LPA Software Engineer Role**
 - ⚡ Love building real-world projects and learning new technologies
